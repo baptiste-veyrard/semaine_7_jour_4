@@ -35,6 +35,7 @@ return arr_transform.join('-');
 }
 
 console.log(transform(arn1))
+console.log(transform(arn2))
 
 
 
